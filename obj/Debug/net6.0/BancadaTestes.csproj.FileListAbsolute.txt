@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\bin\Debug\net6.0\BancadaTestes.exe
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\bin\Debug\net6.0\BancadaTestes.deps.json
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\bin\Debug\net6.0\BancadaTestes.runtimeconfig.json
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\bin\Debug\net6.0\BancadaTestes.dll
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\bin\Debug\net6.0\BancadaTestes.pdb
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.csproj.AssemblyReference.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.AssemblyInfo.cs
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.dll
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\refint\BancadaTestes.dll
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.pdb
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\BancadaTestes.genruntimeconfig.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\BancadaTestes\obj\Debug\net6.0\ref\BancadaTestes.dll
